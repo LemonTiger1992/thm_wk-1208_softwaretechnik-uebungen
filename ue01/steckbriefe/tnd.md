@@ -6,7 +6,7 @@
 
 ## Meine bisherige Erfahrung mit Softwareentwicklung
 
-…Beim Herrn Gerlach erste Java Erfahrungen.
+…Beim Herrn Gerlach erste Java Erfahrungen gemacht.
 
 ## Das erwarte ich von der Veranstaltung
 
